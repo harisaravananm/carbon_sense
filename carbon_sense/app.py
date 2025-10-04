@@ -16,7 +16,7 @@ st.title("⚡ CarbonSense: Energy & Emission Forecasting")
 st.subheader("AI-powered forecast for energy usage and carbon emissions")
 
 # --- Load data ---
-data_path = "data/energy.csv"
+data_path = "energy.csv"
 
 def load_recent_energy_data(filepath, hours_back=48):
     try:
@@ -68,3 +68,4 @@ else:
     total_emissions = forecast['co2_emissions_kg'].sum()
 
     st.metric("Estimated total CO₂ emissions (next 48h)", f"{total_emissions:.2f} kg")
+
