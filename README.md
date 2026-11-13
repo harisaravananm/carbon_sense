@@ -1,7 +1,8 @@
-﻿# Carbon Sense
+# Carbon Sense
 
-[![License](https://img.shields.io/github/license/harisaravananm/carbon_sense?style=for-the-badge)](https://github.com/harisaravananm/carbon_sense/blob/main/LICENSE)
-[![Last commit](https://img.shields.io/github/last-commit/harisaravananm/carbon_sense?style=for-the-badge)](https://github.com/harisaravananm/carbon_sense/commits/main)
+<!-- tech-version-badges -->
+![Python 3.x](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Streamlit 1.x](https://img.shields.io/badge/Streamlit-1.x-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Pandas 2.x](https://img.shields.io/badge/Pandas-2.x-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Prophet Forecasting](https://img.shields.io/badge/Prophet-Forecasting-1E88E5?style=for-the-badge)
+<!-- /tech-version-badges -->
 
 An AI and data-driven sustainability project for monitoring, analyzing, and reducing carbon emissions through actionable insights.
 
