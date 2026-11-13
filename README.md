@@ -1,11 +1,41 @@
-Carbon Sene
-Welcome to Carbon Sene! This project is designed to help users monitor, manage, or analyze carbon-related data in a simple, effective way. Whether you're passionate about sustainability, environmental science, or just curious about carbon footprint trends, Carbon Sene is here to empower you with insightful tools and data.
+﻿# Carbon Sense
 
-Features
-Intuitive interface for easy access and interaction
+[![License](https://img.shields.io/github/license/harisaravananm/carbon_sense?style=for-the-badge)](https://github.com/harisaravananm/carbon_sense/blob/main/LICENSE)
+[![Last commit](https://img.shields.io/github/last-commit/harisaravananm/carbon_sense?style=for-the-badge)](https://github.com/harisaravananm/carbon_sense/commits/main)
 
-Real-time data visualization and analysis
+An AI and data-driven sustainability project for monitoring, analyzing, and reducing carbon emissions through actionable insights.
 
-Deployment-ready on GitHub Pages for seamless access
+## Table of Contents
 
-Open-source and easy to customize for your unique needs
+- [Features](#features)
+- [Tech stack](#tech-stack)
+- [Quick start](#quick-start)
+- [Project structure](#project-structure)
+- [License](#license)
+
+## Features
+
+- Clear project organization for learning, experimentation, or demonstration
+- Project-specific workflows documented below
+- Reproducible local setup instructions
+
+## Tech stack
+
+Python, data analysis, visualization, AI, and Streamlit
+
+## Quick start
+
+Open the `carbon_sense` application directory, install its Python dependencies, configure any required data or API settings, and launch the application with the project entry point.
+
+## Project structure
+
+```text
+.
+|-- carbon_sense/
+|-- .devcontainer/
+`-- .github/
+```
+
+## License
+
+This project is distributed under the license in [LICENSE](LICENSE).
